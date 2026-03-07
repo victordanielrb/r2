@@ -1,6 +1,6 @@
 import { Endereco } from "./endereco";
 import { Telefone } from "./telefone";
-//Novamente usei IA pra transcrever o que já existia no PDF de resto, coisa simples 
+//Novamente usei IA pra transcrever o que já existia no PDF de resto, coisa simples kkkk
 
 export class Cliente {
   nome: string;
